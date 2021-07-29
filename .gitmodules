@@ -1,0 +1,3 @@
+[submodule "wwisetest"]
+	path = wwisetest
+	url = https://github.com/MichaelLiminal/wwisetest.git
