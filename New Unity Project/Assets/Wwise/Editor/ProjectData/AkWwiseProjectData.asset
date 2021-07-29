@@ -66,8 +66,22 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: e5f99d6245f18f4380646aa6a69987ae
     GuidInternal: 
-    m_lastTime: -8585740629525307610
-    List: []
+    m_lastTime: -8585740619488615500
+    List:
+    - name: Main
+      guid: 053b4ab4d756014396e6277dbc929d14
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e5f99d6245f18f4380646aa6a69987ae
+      - ElementName: Main
+        ObjectType: 7
+        guid: 053b4ab4d756014396e6277dbc929d14
+      Path: SoundBanks\Default Work Unit\Main
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -80,8 +94,25 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: a9091fd2e50ec54280119007dace7183
     GuidInternal: 
-    m_lastTime: -8585740629528290318
-    List: []
+    m_lastTime: -8585740619490677794
+    List:
+    - name: shock
+      guid: e9a2cd9c409ad84ebc708ed9db92810c
+      id: 2836875581
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: a9091fd2e50ec54280119007dace7183
+      - ElementName: shock
+        ObjectType: 3
+        guid: e9a2cd9c409ad84ebc708ed9db92810c
+      Path: Events\Default Work Unit\shock
+      maxAttenuation: 0
+      maxDuration: 0.989524
+      minDuration: 0.989524
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -138,9 +169,9 @@ MonoBehaviour:
     GuidInternal: 
     m_lastTime: -8585740629525277581
     List: []
-  ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedFileSystemItemIds: 02000000030000000400000005000000
+  ExpandedWaapiItemIds: 020000000300000009000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
-  currentDataSource: 0
+  currentDataSource: 1
   CurrentPluginConfig: 
